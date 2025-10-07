@@ -73,6 +73,7 @@ This project demonstrates how data-driven hospital management can:
 
 ✨ By combining analytics with strategic recommendations, this dashboard helps healthcare organizations move from reactive reporting to proactive optimization.
 
----
+<img width="1211" height="757" alt="image" src="https://github.com/user-attachments/assets/fb792f2b-1852-493e-8369-8b1fb42ebd9c" />
+
 
 
